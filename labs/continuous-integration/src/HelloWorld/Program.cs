@@ -7,6 +7,7 @@ public class Program
     static void Main(string[] args)
     {
         Console.WriteLine("Hello Class!");
+        Console.WriteLine("Hello this is Amanda");
         if (args.Length == 1)
         {
             int bedtimeHour = 22;
